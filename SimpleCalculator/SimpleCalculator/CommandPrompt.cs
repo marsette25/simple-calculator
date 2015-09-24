@@ -11,13 +11,6 @@ namespace SimpleCalculator
     
         static void Main(string[] args)
         {
-            //// Uses increments and assigns.
-            ////
-            //int x = 0;
-            //int v = 0;
-            //v = x++; // Increment after value copy
-            //Console.WriteLine(v);
-            //Console.WriteLine(x);
 
             int response = 1;
             int answer = 1;
