@@ -1,0 +1,6 @@
+C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\CalculatorTests\obj\Debug\CalculatorTests.pdb
