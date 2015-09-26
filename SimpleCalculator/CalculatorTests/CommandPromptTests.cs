@@ -6,11 +6,17 @@ namespace CalculatorTests
     [TestClass]
     public class CommandPrompt
     {
+
         [TestMethod]
         public void CommandPromptValueFirst()
         {
-            CommandPrompt myPrompt = CommandPrompt("0");
-            Assert.AreEqual("x", response.Value);
+            //CommandPrompt myPrompt = "x";
+            //Assert.AreEqual("x", response);
+        }
+
+        public static implicit operator CommandPrompt(string v)
+        {
+            throw new NotImplementedException();
         }
 
         //[TestMethod]
@@ -28,5 +34,5 @@ namespace CalculatorTests
         //    node1.Next = node2;
         //    Assert.AreEqual(node2, node1.Next);
         //    Assert.IsNull(node2.Next);
-        }
+    }
     }
