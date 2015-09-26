@@ -51,12 +51,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CalculatorTests\CalculatorTests.csproj">
-      <Project>{f06357cd-ae95-4f91-9967-37f1cde5d944}</Project>
-      <Name>CalculatorTests</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

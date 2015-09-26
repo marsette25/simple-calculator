@@ -2,8 +2,5 @@ C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalc
 C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
 C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
 C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
-C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\bin\Debug\CalculatorTests.dll
-C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\bin\Debug\CalculatorTests.pdb
 C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
 C:\Users\Marsette\Documents\GitHub\simple-calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

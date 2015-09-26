@@ -9,7 +9,7 @@ namespace SimpleCalculator
     public class CommandPrompt
     {
     
-        static void Main(string[] args)
+        static void First(string[] args)
         {
 
             int response = 1;
@@ -28,5 +28,29 @@ namespace SimpleCalculator
             Console.ReadLine();
 
         }
+
+        //public int Count()
+        //{
+        //    //If the list is empty
+        //    //this.Count == 0
+        //    if (this.First() == x)
+        //    {
+        //        return 0;
+        //    }
+        //    else
+        //    {
+        //        int length = 1;
+        //        var node = this.first_node;
+        //        //Complexity is 0(n)
+        //        while (node.Next != null)
+        //        {
+        //            length++;
+        //            node = node.Next;
+        //        }
+        //        return length;
+        //    }
+
+            //Provide a second implementation
+        }
     }
-}
+
