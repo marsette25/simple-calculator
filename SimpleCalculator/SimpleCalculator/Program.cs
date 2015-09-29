@@ -7,11 +7,13 @@ using System.Text.RegularExpressions;
 
 namespace SimpleCalculator
 {
-    class Program
+    class Program : CommandPrompt
     {
-     
+        static void Main(string[] args)
+        {
+            Console.ReadLine();
+        }
 
     }
-
 
 }

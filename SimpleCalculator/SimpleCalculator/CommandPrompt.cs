@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 using SC = System.Console;
 
 namespace SimpleCalculator
@@ -11,7 +12,7 @@ namespace SimpleCalculator
     {
         public static int i { get; private set; }
 
-        static void Main(string[] args)
+        public void Command(string[] args)
         {
 
             int response = 1;

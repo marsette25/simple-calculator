@@ -1,6 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+
+
 namespace CalculatorTests
 {
     [TestClass]
@@ -10,8 +12,8 @@ namespace CalculatorTests
         [TestMethod]
         public void CommandPromptValueFirst()
         {
-            //CommandPrompt myPrompt = "x";
-            //Assert.AreEqual("x", response);
+            CommandPrompt myPrompt = "x";
+            Assert.AreEqual("x", 0);
         }
 
         public static implicit operator CommandPrompt(string v)
